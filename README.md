@@ -1,6 +1,6 @@
-# Let_the_Free_Times_Roll_BT
+G# Let_the_Free_Times_Roll_BT
 An A Cloud Guru Maker Lab - 
-Let the Free Times Roll - Using AWS Continuous Deployment tools.
+Get the Free Times Roll - Using AWS Continuous Deployment tools.
 
 Manually uploading and deploying code to update applications is a thing of the past. Using AWS tools like CodePipeline, CodeBuild, & S3 students will build a system that allows them to write and push code that triggers seamless and automatic deployments. Students will also setup an email notification that is sent to developers if a status change is made in the build process using CloudWatch & SNS. Let the free times roll with Continuous Deployments.
 
@@ -54,3 +54,5 @@ These files are distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS 
 ## June 2018
 Initial Creation.
 
+
+Welcome
